@@ -1,0 +1,1 @@
+Token = '1766277624:AAHZHaOPY8UUUJHy7k9dAn8aGS3EBgwNyKE' # токен для бота.
